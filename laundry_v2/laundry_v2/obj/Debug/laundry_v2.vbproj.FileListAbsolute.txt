@@ -1,0 +1,16 @@
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\bin\Debug\laundry_v2.exe.config
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\bin\Debug\laundry_v2.exe
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\bin\Debug\laundry_v2.pdb
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\bin\Debug\laundry_v2.xml
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.DataLaundry.resources
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.Login.resources
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.MenuUtama.resources
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.Resources.resources
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.PengembalianCucian.resources
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.PenyerahanCucian.resources
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.vbproj.GenerateResource.Cache
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.exe
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.xml
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.pdb
+c:\users\acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.vbprojResolveAssemblyReference.cache
+C:\Users\Acer\documents\visual studio 2013\Projects\laundry_v2\laundry_v2\obj\Debug\laundry_v2.laporanDataLaundry.resources
