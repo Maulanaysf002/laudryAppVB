@@ -11,8 +11,8 @@ alur program laundry :
       pada form ini akan menampilkan data laundry pelanggan yang masih diproses pencuciannya. Data dapat dicari dengan menggunakan nama atau faktur. pada form ini             terdapat tombol cetak laporan untuk mencetak data menggunakan crystal report.
    3. form pengembalian pakaian :
       form ini berisi data yang sama pada penyerahan cucian dimana ada tambahan status sebagai penanda bahwa pekerjaan laundry dari pelanggan sudah selesai. lalu data         akan dipindahkan dari data laundry ke list data laundry yang sudah selesai pada form ini.
+      
 - admin dapat keluar halaman dengan tombol close di menu utama.
-
 program ini menggunakan :
 - microsoft visual studio 2013
 - crystal report for VS 13 SP 31
